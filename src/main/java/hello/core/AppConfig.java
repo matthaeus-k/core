@@ -14,6 +14,7 @@ import org.springframework.context.annotation.Configuration;
 /*
  관심사 분리
   - 의존관계 주입
+  -  DI injection
 
  */
 @Configuration
